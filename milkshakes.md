@@ -1,3 +1,3 @@
-Chocolate
-Milk
-PineApple
+Chocolate Milkshake
+Strawberry Milkshake
+Vanilla Milkshake 
